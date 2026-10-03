@@ -1,0 +1,165 @@
+Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score,Debt,Payment History,Customer Code
+25,Female,50000,Bachelor's Degree,Single,0,Rented,High,23654,Good,CUST0001
+30,Male,100000,Master's Degree,Married,2,Owned,High,5390,Good,CUST0002
+35,Female,75000,Doctorate,Married,1,Owned,High,11964,Excellent,CUST0003
+40,Male,125000,High School Diploma,Single,0,Owned,High,6265,Excellent,CUST0004
+45,Female,100000,Bachelor's Degree,Married,3,Owned,High,4426,Excellent,CUST0005
+50,Male,150000,Master's Degree,Married,0,Owned,High,28020,Excellent,CUST0006
+26,Female,40000,Associate's Degree,Single,0,Rented,Average,26023,Unknown,CUST0007
+31,Male,60000,Bachelor's Degree,Single,0,Rented,Average,51090,Unknown,CUST0008
+36,Female,80000,Master's Degree,Married,2,Owned,High,1685,Excellent,CUST0009
+41,Male,105000,Doctorate,Single,0,Owned,High,26967,Good,CUST0010
+46,Female,90000,High School Diploma,Married,1,Owned,High,23333,Excellent,CUST0011
+51,Male,135000,Bachelor's Degree,Married,0,Owned,High,5051,Excellent,CUST0012
+27,Female,35000,High School Diploma,Single,0,Rented,Low,244779,Poor,CUST0013
+32,Male,55000,Associate's Degree,Single,0,Rented,Average,81932,Unknown,CUST0014
+37,Female,70000,Bachelor's Degree,Married,2,Owned,High,29419,Excellent,CUST0015
+42,Male,95000,Master's Degree,Single,0,Owned,High,8666,Excellent,CUST0016
+47,Female,85000,Doctorate,Married,1,Owned,High,24233,Excellent,CUST0017
+52,Male,125000,High School Diploma,Married,0,Owned,High,2747,Excellent,CUST0018
+28,Female,30000,Associate's Degree,Single,0,Rented,Low,125725,Fair,CUST0019
+33,Male,50000,High School Diploma,Single,0,Rented,Average,45773,Unknown,CUST0020
+38,Female,65000,Bachelor's Degree,Married,2,Owned,High,21042,Excellent,CUST0021
+43,Male,80000,Master's Degree,Single,0,Owned,High,1267,Excellent,CUST0022
+48,Female,70000,Doctorate,Married,1,Owned,High,11394,Good,CUST0023
+53,Male,115000,Associate's Degree,Married,0,Owned,High,8838,Excellent,CUST0024
+29,Female,25000,High School Diploma,Single,0,Rented,Low,271110,Fair,CUST0025
+34,Male,45000,Associate's Degree,Single,0,Rented,Average,18792,Unknown,CUST0026
+39,Female,60000,Bachelor's Degree,Married,2,Owned,High,10555,Excellent,CUST0027
+44,Male,75000,Master's Degree,Single,0,Owned,High,10233,Excellent,CUST0028
+49,Female,65000,Doctorate,Married,1,Owned,High,2612,Excellent,CUST0029
+25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,33483,Unknown,CUST0030
+30,Male,105000,Master's Degree,Married,2,Owned,High,26054,Excellent,CUST0031
+35,Female,80000,Doctorate,Married,1,Owned,High,17159,Excellent,CUST0032
+40,Male,130000,High School Diploma,Single,0,Owned,High,14541,Excellent,CUST0033
+45,Female,105000,Bachelor's Degree,Married,3,Owned,High,1585,Excellent,CUST0034
+50,Male,155000,Master's Degree,Married,0,Owned,High,19457,Excellent,CUST0035
+26,Female,45000,Associate's Degree,Single,0,Rented,Average,88953,Unknown,CUST0036
+31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,62995,Unknown,CUST0037
+36,Female,85000,Master's Degree,Married,2,Owned,High,7989,Excellent,CUST0038
+41,Male,110000,Doctorate,Single,0,Owned,High,6873,Excellent,CUST0039
+46,Female,95000,High School Diploma,Married,1,Owned,High,4297,Good,CUST0040
+51,Male,140000,Bachelor's Degree,Married,0,Owned,High,29487,Excellent,CUST0041
+27,Female,37500,High School Diploma,Single,0,Rented,Low,100397,Fair,CUST0042
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,11016,Unknown,CUST0043
+37,Female,72500,Bachelor's Degree,Married,2,Owned,High,24253,Excellent,CUST0044
+42,Male,100000,Master's Degree,Single,0,Owned,High,23247,Good,CUST0045
+47,Female,90000,Doctorate,Married,1,Owned,High,17262,Good,CUST0046
+52,Male,130000,High School Diploma,Married,0,Owned,High,12185,Good,CUST0047
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,230171,Poor,CUST0048
+33,Male,52500,High School Diploma,Single,0,Rented,Average,48044,Unknown,CUST0049
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,18446,Excellent,CUST0050
+43,Male,92500,Master's Degree,Single,0,Owned,High,16216,Good,CUST0051
+48,Female,82500,Doctorate,Married,1,Owned,High,21847,Excellent,CUST0052
+53,Male,122500,Associate's Degree,Married,0,Owned,High,2695,Excellent,CUST0053
+29,Female,27500,High School Diploma,Single,0,Rented,Low,196330,Fair,CUST0054
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,43159,Unknown,CUST0055
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,13986,Good,CUST0056
+44,Male,87500,Master's Degree,Single,0,Owned,High,12666,Excellent,CUST0057
+49,Female,77500,Doctorate,Married,1,Owned,High,26854,Excellent,CUST0058
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,62251,Unknown,CUST0059
+30,Male,112500,Master's Degree,Married,2,Owned,High,22662,Good,CUST0060
+35,Female,85000,Doctorate,Married,1,Owned,High,13067,Excellent,CUST0061
+25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,99135,Unknown,CUST0062
+30,Male,117500,Master's Degree,Married,2,Owned,High,29174,Excellent,CUST0063
+35,Female,90000,Doctorate,Married,1,Owned,High,14039,Excellent,CUST0064
+40,Male,142500,High School Diploma,Single,0,Owned,High,19115,Excellent,CUST0065
+45,Female,110000,Bachelor's Degree,Married,3,Owned,High,24538,Excellent,CUST0066
+50,Male,160000,Master's Degree,Married,0,Owned,High,14948,Good,CUST0067
+26,Female,47500,Associate's Degree,Single,0,Rented,Average,37266,Unknown,CUST0068
+31,Male,67500,Bachelor's Degree,Single,0,Rented,Average,62992,Unknown,CUST0069
+36,Female,90000,Master's Degree,Married,2,Owned,High,17412,Excellent,CUST0070
+41,Male,115000,Doctorate,Single,0,Owned,High,6910,Excellent,CUST0071
+46,Female,97500,High School Diploma,Married,1,Owned,High,23322,Excellent,CUST0072
+51,Male,145000,Bachelor's Degree,Married,0,Owned,High,21518,Excellent,CUST0073
+27,Female,37500,High School Diploma,Single,0,Rented,Low,83419,Fair,CUST0074
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,60015,Unknown,CUST0075
+37,Female,75000,Bachelor's Degree,Married,2,Owned,High,19174,Excellent,CUST0076
+42,Male,105000,Master's Degree,Single,0,Owned,High,21500,Excellent,CUST0077
+47,Female,95000,Doctorate,Married,1,Owned,High,18141,Excellent,CUST0078
+52,Male,135000,High School Diploma,Married,0,Owned,High,6374,Excellent,CUST0079
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,224899,Poor,CUST0080
+33,Male,52500,High School Diploma,Single,0,Rented,Average,91734,Unknown,CUST0081
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,9914,Excellent,CUST0082
+43,Male,92500,Master's Degree,Single,0,Owned,High,22299,Good,CUST0083
+48,Female,85000,Doctorate,Married,1,Owned,High,9789,Excellent,CUST0084
+53,Male,125000,Associate's Degree,Married,0,Owned,High,2693,Excellent,CUST0085
+29,Female,27500,High School Diploma,Single,0,Rented,Low,260235,Poor,CUST0086
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,52941,Unknown,CUST0087
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,21834,Excellent,CUST0088
+44,Male,87500,Master's Degree,Single,0,Owned,High,10230,Good,CUST0089
+49,Female,77500,Doctorate,Married,1,Owned,High,11494,Good,CUST0090
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,40080,Unknown,CUST0091
+30,Male,112500,Master's Degree,Married,2,Owned,High,1306,Excellent,CUST0092
+35,Female,85000,Doctorate,Married,1,Owned,High,27251,Excellent,CUST0093
+25,Female,62500,Bachelor's Degree,Single,0,Rented,Average,19474,Unknown,CUST0094
+30,Male,117500,Master's Degree,Married,2,Owned,High,7526,Excellent,CUST0095
+35,Female,90000,Doctorate,Married,1,Owned,High,5530,Excellent,CUST0096
+40,Male,142500,High School Diploma,Single,0,Owned,High,3748,Excellent,CUST0097
+45,Female,115000,Bachelor's Degree,Married,3,Owned,High,13545,Excellent,CUST0098
+50,Male,162500,Master's Degree,Married,0,Owned,High,1998,Excellent,CUST0099
+26,Female,50000,Associate's Degree,Single,0,Rented,Average,71087,Unknown,CUST0100
+31,Male,70000,Bachelor's Degree,Single,0,Rented,Average,78840,Unknown,CUST0101
+36,Female,95000,Master's Degree,Married,2,Owned,High,20147,Excellent,CUST0102
+41,Male,120000,Doctorate,Single,0,Owned,High,13808,Excellent,CUST0103
+46,Female,102500,High School Diploma,Married,1,Owned,High,17675,Excellent,CUST0104
+51,Male,150000,Bachelor's Degree,Married,0,Owned,High,11649,Good,CUST0105
+27,Female,37500,High School Diploma,Single,0,Rented,Low,127172,Fair,CUST0106
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,36736,Unknown,CUST0107
+37,Female,77500,Bachelor's Degree,Married,2,Owned,High,28673,Excellent,CUST0108
+42,Male,110000,Master's Degree,Single,0,Owned,High,13877,Excellent,CUST0109
+47,Female,97500,Doctorate,Married,1,Owned,High,5855,Good,CUST0110
+52,Male,137500,High School Diploma,Married,0,Owned,High,28050,Excellent,CUST0111
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,278164,Poor,CUST0112
+33,Male,52500,High School Diploma,Single,0,Rented,Average,36309,Unknown,CUST0113
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,21919,Excellent,CUST0114
+43,Male,95000,Master's Degree,Single,0,Owned,High,19894,Good,CUST0115
+48,Female,87500,Doctorate,Married,1,Owned,High,20602,Excellent,CUST0116
+53,Male,127500,Associate's Degree,Married,0,Owned,High,4389,Excellent,CUST0117
+29,Female,27500,High School Diploma,Single,0,Rented,Low,243155,Poor,CUST0118
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,99045,Unknown,CUST0119
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,1930,Good,CUST0120
+44,Male,87500,Master's Degree,Single,0,Owned,High,22671,Good,CUST0121
+49,Female,77500,Doctorate,Married,1,Owned,High,9339,Excellent,CUST0122
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,61663,Unknown,CUST0123
+30,Male,112500,Master's Degree,Married,2,Owned,High,15708,Good,CUST0124
+35,Female,85000,Doctorate,Married,1,Owned,High,2811,Excellent,CUST0125
+25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,82082,Unknown,CUST0126
+30,Male,117500,Master's Degree,Married,2,Owned,High,25945,Excellent,CUST0127
+35,Female,90000,Doctorate,Married,1,Owned,High,8338,Excellent,CUST0128
+28,Male,75000,Bachelor's Degree,Single,0,Rented,Average,77270,Unknown,CUST0129
+33,Female,82000,Master's Degree,Married,1,Owned,High,18227,Good,CUST0130
+31,Male,95000,Doctorate,Single,0,Rented,High,18343,Excellent,CUST0131
+26,Female,55000,Bachelor's Degree,Married,1,Owned,Average,21111,Unknown,CUST0132
+32,Male,85000,Master's Degree,Single,0,Rented,High,4736,Excellent,CUST0133
+29,Female,68000,Doctorate,Married,2,Owned,Average,83656,Unknown,CUST0134
+34,Male,105000,Bachelor's Degree,Married,1,Rented,High,6616,Excellent,CUST0135
+25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,31918,Unknown,CUST0136
+30,Male,105000,Master's Degree,Married,2,Owned,High,20445,Excellent,CUST0137
+35,Female,80000,Doctorate,Married,1,Owned,High,16646,Excellent,CUST0138
+40,Male,130000,High School Diploma,Single,0,Owned,High,25199,Excellent,CUST0139
+45,Female,105000,Bachelor's Degree,Married,3,Owned,High,11835,Excellent,CUST0140
+50,Male,155000,Master's Degree,Married,0,Owned,High,5423,Good,CUST0141
+26,Female,45000,Associate's Degree,Single,0,Rented,Average,30932,Unknown,CUST0142
+31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,39855,Unknown,CUST0143
+36,Female,85000,Master's Degree,Married,2,Owned,High,28666,Excellent,CUST0144
+41,Male,110000,Doctorate,Single,0,Owned,High,7400,Excellent,CUST0145
+46,Female,95000,High School Diploma,Married,1,Owned,High,15151,Good,CUST0146
+51,Male,140000,Bachelor's Degree,Married,0,Owned,High,4499,Good,CUST0147
+27,Female,37500,High School Diploma,Single,0,Rented,Low,186071,Poor,CUST0148
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,39299,Unknown,CUST0149
+37,Female,72500,Bachelor's Degree,Married,2,Owned,High,12874,Good,CUST0150
+42,Male,100000,Master's Degree,Single,0,Owned,High,5539,Good,CUST0151
+47,Female,90000,Doctorate,Married,1,Owned,High,28499,Excellent,CUST0152
+52,Male,130000,High School Diploma,Married,0,Owned,High,27759,Excellent,CUST0153
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,273090,Poor,CUST0154
+33,Male,52500,High School Diploma,Single,0,Rented,Average,78497,Unknown,CUST0155
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,14207,Excellent,CUST0156
+43,Male,92500,Master's Degree,Single,0,Owned,High,11969,Excellent,CUST0157
+48,Female,82500,Doctorate,Married,1,Owned,High,28367,Good,CUST0158
+53,Male,122500,Associate's Degree,Married,0,Owned,High,28643,Good,CUST0159
+29,Female,27500,High School Diploma,Single,0,Rented,Low,83328,Poor,CUST0160
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,96831,Unknown,CUST0161
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,3987,Excellent,CUST0162
+44,Male,87500,Master's Degree,Single,0,Owned,High,13446,Good,CUST0163
+49,Female,77500,Doctorate,Married,1,Owned,High,4735,Excellent,CUST0164

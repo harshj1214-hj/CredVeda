@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Syntax Check",
+      "trigger": "PostFileSave",
+      "matcher": "src/.*\\.py$",
+      "action": {
+        "type": "command",
+        "command": "python -m py_compile src/*.py"
+      }
+    }
+  ]
+}

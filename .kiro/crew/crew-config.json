@@ -1,0 +1,21 @@
+{
+  "name": "Credit Underwriting Crew",
+  "agents": [
+    {
+      "name": "Model Engineer",
+      "role": "Train ML models and handle feature engineering",
+      "scope": ["src/features.py", "src/train.py"]
+    },
+    {
+      "name": "Explainability Lead",
+      "role": "Build SHAP visualizers and recourse rules",
+      "scope": ["src/explain.py"]
+    },
+    {
+      "name": "Frontend Developer",
+      "role": "Streamlit layout and interactive charts",
+      "scope": ["app.py"]
+    }
+  ]
+}
+
