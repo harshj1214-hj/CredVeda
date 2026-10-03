@@ -11,16 +11,29 @@ from src.explain import extract_shap_contributions, generate_counterfactual_reco
 
 import streamlit.components.v1 as components
 
-# Paste this near the top of your app.py
 components.html(
     """
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-516HYVTMDN"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-516HYVTMDN');
+        const parentDoc = window.parent.document;
+        if (!parentDoc.getElementById('ga-script')) {
+            const gaScript = parentDoc.createElement('script');
+            gaScript.id = 'ga-script';
+            gaScript.async = true;
+            gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-516HYVTMDN';
+            parentDoc.head.appendChild(gaScript);
+
+            const gaInit = parentDoc.createElement('script');
+            gaInit.innerHTML = `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-516HYVTMDN', {
+                    'page_title': 'CredVeda',
+                    'page_location': window.location.href
+                });
+            `;
+            parentDoc.head.appendChild(gaInit);
+        }
     </script>
     """,
     height=0,
