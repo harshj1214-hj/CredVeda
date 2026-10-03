@@ -9,6 +9,23 @@ import streamlit as st
 
 from src.explain import extract_shap_contributions, generate_counterfactual_recourse
 
+import streamlit.components.v1 as components
+
+# Paste this near the top of your app.py
+components.html(
+    """
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-516HYVTMDN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-516HYVTMDN');
+    </script>
+    """,
+    height=0,
+    width=0,
+)
 
 # ── page config ───────────────────────────────────────────────────────────────
 
